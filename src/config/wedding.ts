@@ -118,7 +118,7 @@ export const wedding = {
   galleryTitle: "Our Beginning",
   galleryNote: [
     "One of the most awaited days of our lives is finally here, and we can't imagine celebrating it without you. ❤️",
-    "You've been such a special part of our journey, and having you by our side as we begin this new chapter would mean the world to us.",
+    "You've been such a special part of our lives, and having you by our side as we begin this new chapter would mean the world to us.",
   ],
 
   gallery: [
