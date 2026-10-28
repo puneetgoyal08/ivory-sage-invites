@@ -36,7 +36,7 @@ export const wedding = {
   groom: "Puneet",
   brideParents: "Pooja Bansal & Parveen Kumar Bansal",
   groomParents: "Suman Goyal & Harcharan Dass Goyal",
-  invitation: "Together with our families, we invite you to celebrate our wedding.",
+  invitation: "We joyfully invite you to celebrate our wedding.",
   date: "2026-12-05T20:00:00+05:30",
   dateIsPlaceholder: false,
   timeIsPlaceholder: false,
